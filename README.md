@@ -13,6 +13,7 @@ Examining existing studies, we find both IoT-based and dynamic gas sensor approa
 
 ## Modules/Components 🛠️
 - 🧠 **ESP32:** A powerful IoT tool for energy-efficient operation.
+  
  ![image](https://github.com/Raja244/AirWatch/assets/65381335/932e7957-6b2d-40c9-93f2-767ec39753d0)
 
 - 📊 **PM2.5 Sensor:** Detects fine particulate matter for accurate pollution assessment.
