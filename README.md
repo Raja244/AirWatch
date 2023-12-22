@@ -10,7 +10,7 @@ Indoor pollution poses significant risks, impacting urban dwellers' health and w
 Examining existing studies, we find both IoT-based and dynamic gas sensor approaches. While some suffer from high costs and immobility, others face challenges like frequent page refreshing. Our system aims to overcome these limitations.
 
 ## Modules/Components
-- 🧠 **ESP32:** A powerful IoT tool for energy-efficient operation.
+🧠 -  **ESP32:** 🎋A powerful IoT tool for energy-efficient operation.
 - 📊 **PM2.5 Sensor:** Detects fine particulate matter for accurate pollution assessment.
 - 🔥 **MQ-7:** Monitors carbon monoxide levels for safety.
 - 🌬️ **MQ135:** Detects multiple gases including CO2 and VOC.
