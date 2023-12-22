@@ -17,19 +17,24 @@ Examining existing studies, we find both IoT-based and dynamic gas sensor approa
  ![image](https://github.com/Raja244/AirWatch/assets/65381335/932e7957-6b2d-40c9-93f2-767ec39753d0)
 
 - 📊 **PM2.5 Sensor:** Detects fine particulate matter for accurate pollution assessment.
- ![image](https://github.com/Raja244/AirWatch/assets/65381335/906e8298-7c7b-46cd-b9b9-8dd6cead911d)
+
+![image](https://github.com/Raja244/AirWatch/assets/65381335/906e8298-7c7b-46cd-b9b9-8dd6cead911d)
 
 - 🔥 **MQ-7:** Monitors carbon monoxide levels for safety.
- ![image](https://github.com/Raja244/AirWatch/assets/65381335/93b59546-967b-4614-9b77-f8f863e21138)
+
+![image](https://github.com/Raja244/AirWatch/assets/65381335/93b59546-967b-4614-9b77-f8f863e21138)
 
 - 🌬️ **MQ135:** Detects multiple gases including CO2 and VOC.
- ![image](https://github.com/Raja244/AirWatch/assets/65381335/4b80089b-17e6-4b04-a396-aa9d460bb38b)
+
+![image](https://github.com/Raja244/AirWatch/assets/65381335/4b80089b-17e6-4b04-a396-aa9d460bb38b)
 
 - 📺 **LCD:** Displays real-time data for user convenience.
- ![image](https://github.com/Raja244/AirWatch/assets/65381335/da170ed8-28b4-4997-91c2-591e121f2ce1)
+
+![image](https://github.com/Raja244/AirWatch/assets/65381335/da170ed8-28b4-4997-91c2-591e121f2ce1)
 
 - 🔊 **Piezo Buzzer:** Provides audible alerts for potential hazards.
- ![image](https://github.com/Raja244/AirWatch/assets/65381335/2767a456-bc89-44f5-a24f-45088c93f0d4)
+
+![image](https://github.com/Raja244/AirWatch/assets/65381335/2767a456-bc89-44f5-a24f-45088c93f0d4)
 
 ## Working on the Project 🛠️
 Utilizing a comprehensive block diagram, we gauge and chart pollutant levels, ensuring precision in data representation.
