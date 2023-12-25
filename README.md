@@ -1,4 +1,5 @@
-# 🌬️ Air Quality Monitoring System 🌍
+# 🌬️ AirWatch 🌍
+##-The Air Quality Monitoring System
 
 ## Abstract 🚀
 Air pollution is a pressing global issue, affecting health and the environment. This project addresses this challenge by developing an affordable gadget to monitor pollutants like CO, CO2, noise, temperature, and humidity. Leveraging machine learning, we enhance sensor accuracy and aim to provide advance warnings, especially for asthma-prone individuals.
