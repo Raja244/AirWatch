@@ -68,8 +68,5 @@ The project's future includes enhanced data analytics, integration with smart ci
 ## Readme File 🔗
 Check the README.md file for a quick guide, setup instructions, and emojis that guide you through a smooth experience! 🚀
 
-## References 📖
-Refer to the project's detailed report for a comprehensive list of references and sources.
-
 **Conclusion:**
 Our project strives to create an impactful solution, contributing to a healthier, sustainable world. With continuous improvements and advancements, we aim to empower individuals and communities to combat air pollution effectively. 🌱🌍
